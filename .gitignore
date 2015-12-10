@@ -1,0 +1,14 @@
+# Mac OS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Sass
+.sass-cache
+
+# Dropbox
+.dropbox
+
+# images
+public/img/
